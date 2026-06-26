@@ -14,7 +14,7 @@
 
 <!-- Social Connection Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/priti-kumari-940162bb" target="_blank">
+  <a href="https://linkedin.com/in/priti-kumari-9840162bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jha015278@gmail.com" target="_blank">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priti-kumari-940162bb&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pritikumari1107&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -126,13 +126,13 @@ I am a passionate **Frontend Developer** with hands-on experience in building mo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priti-kumari-940162bb&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritikumari1107&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priti-kumari-940162bb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritikumari1107&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti-kumari-940162bb&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritikumari1107&theme=tokyonight" alt="GitHub Streak" />
 </p>
